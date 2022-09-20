@@ -33,7 +33,7 @@ class MyHealthPointPage extends StatelessWidget {
                           Expanded(
                             flex: 1,
                             child: Icon(
-                              Icons.wallet_giftcard,
+                              Icons.run_circle,
                               size: 100,
                               color: AppColors.primarySwatch[400],
                             ),

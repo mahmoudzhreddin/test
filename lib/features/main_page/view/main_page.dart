@@ -219,9 +219,7 @@ class _MainPageState extends State<MainPage> {
     UtilDialog.showAwesomeDialog(
       ok: () {
         _mainPageController!.sendPoitnToFireStroe();
-        // if (resulte) {
-        //   SystemNavigator.pop();
-        // }
+        SystemNavigator.pop();
       },
       cancel: () {},
       context: context,
