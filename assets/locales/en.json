@@ -1,0 +1,19 @@
+{
+  "loading": "loading",
+  "success": "success",
+  "name": "Name",
+  "register": "Register",
+  "health point": "Health Point",
+  "steps today": "Steps Today",
+  "salary in SAR": "Salary in SAR",
+  "salary in health point": "Salary in Health Point",
+  "exchange your points": "Do you want to exchange your points for  ",
+  "less than the catalog price": "Your points are less than the catalog price",
+  "home": "Home",
+  "catalog": "Catalog",
+  "setting": "Setting",
+  "my catalog": "My Catalog",
+  "my health point": "My Health Point",
+  "language": "Language",
+  "app_language": "App Language"
+}

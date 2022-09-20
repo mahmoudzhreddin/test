@@ -1,0 +1,19 @@
+{
+  "loading":"جاري التحميل",
+  "success":"تم العملية بنجاح",
+  "name":"الاسم",
+  "register":"تسجيل",
+  "health point":"النقاط الصحية",
+  "steps today":"خطوات اليوم",
+  "salary in SAR":"السعر في الريال السعودي",
+  "salary in health point":"السعر حسب في النقطة الصحية",
+  "exchange your points":"هل تريد تبديل نقاطك ل  ",
+  "less than the catalog price":"عدد نقاطك أقل من سعر الكتالوغ المحدد",
+  "home":"الرئيسية",
+  "catalog":"الكتالوغ",
+  "setting":"الإعدادات",
+  "my catalog":"الكتالوغ الخاصة بي",
+  "my health point": "نقاطي",
+  "language":"اللغة",
+  "app_language":"لغة التطبيق"
+}
